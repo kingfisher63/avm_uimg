@@ -1,0 +1,6 @@
+/bin/Debug
+/uimg/obj
+/.vs
+/bin/Release/Win32/*.pdb
+/bin/Release/Win32/*.iobj
+/bin/Release/Win32/*.ipdb
